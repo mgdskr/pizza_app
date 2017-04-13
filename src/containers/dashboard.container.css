@@ -1,0 +1,46 @@
+.dashboard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.pizza {
+}
+.pizza__fig {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+}
+.pizza__img {
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.pizza__title {
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.pizza__details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.pizza__size {
+    display: inline-block;
+    font-size: 20px;
+}
+.pizza__price {
+    display: inline-block;
+    font-size: 20px;
+}
+
+
+

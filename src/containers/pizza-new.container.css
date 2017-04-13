@@ -1,0 +1,24 @@
+.pizza-new__image-container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pizza-new__image {}
+
+.pizza-new__image_small {
+    width: 100px;
+    height: 100px;
+}
+
+.pizza-new__image_medium {
+    width: 200px;
+    height: 200px;
+}
+
+.pizza-new__image_large {
+    width: 400px;
+    height: 400px;
+}
